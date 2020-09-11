@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node_modules/jsdoc/jsdoc.js src/file.js"
+    "start": "node_modules/jsdoc/jsdoc.js src/"
   },
   "author": "Sergei Alimov",
   "license": "ISC"
